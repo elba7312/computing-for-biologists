@@ -1,1 +1,1 @@
-This repository contains the IPython notebooks used for lessons on the [main site](ecoevo.unit.oist.jp/computing/).
+This repository contains the IPython notebooks used for lessons on the [main site](http://ecoevo.unit.oist.jp/computing/).
